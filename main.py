@@ -20,7 +20,7 @@ d_float = 0.001
 # excercise 6 - amend commit so that the function in excercise 5 takes two parameters - num and name and returns a string
 # consisting of num times 'hello' followed by a ', name'
 
-
+p = 5
 
 
 # *** If times allows: random library
