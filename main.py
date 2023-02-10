@@ -7,8 +7,6 @@
 a_int = 5
 b_bool = True
 c_string = "Hello,Katrina"
-
-
 d_float = 0.001
 
 # excercise 4 - make an algorithm that will print c_string a_int times
